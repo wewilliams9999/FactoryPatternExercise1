@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tJ7o04syGzHUydS6z12BSkcbGgE3f9isOdfNDhE9g+okzWBCg8Ih/an26rhUAbkKp87A/CiohPN0wh8okJqTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\FactoryPatternExercise\\FactoryPatternExercise\\FactoryPatternExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
